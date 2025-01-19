@@ -4,7 +4,7 @@ This is David Lin.
 This repository holds my programming projects done druing the period of stanCode SC001 and SC101 courses.
 
 ## Projects Source Codes:
-* [Hangman Game](https://github.com/aspire3003/MyStancodeProjects/tree/main/stanCode_Projects/hangman_game.py)
+* [Hangman Game](https://github.com/aspire3003/MyStancodeProjects/tree/main/stanCode_Projects/hangman_game)
     * python semantics & syntax
 * [Breakout Game](https://github.com/aspire3003/MyStancodeProjects/tree/main/stanCode_Projects/break_out_game)
     * animation & game designing
